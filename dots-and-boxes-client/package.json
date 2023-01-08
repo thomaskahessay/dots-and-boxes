@@ -1,6 +1,5 @@
 {
-  "name": "dots-and-boxes",
-  "homepage": "https://thomaskahessay.github.io/dots-and-boxes",
+  "name": "dots-and-boxes-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
